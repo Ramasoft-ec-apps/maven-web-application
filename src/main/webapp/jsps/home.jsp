@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>MithunTechnologies- Home Page</title>
-<link href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthenamesarchive.com%2Fassets%2Fimages%2Fnames%2Fr%2Fa%2Frama%2Frama-1.webp&imgrefurl=https%3A%2F%2Fthenamesarchive.com%2Fname%2Frama&tbnid=K4oOAUxMDX1luM&vet=12ahUKEwid25X447H3AhXVoukKHVVnD5sQMyhLegQIARBw..i&docid=inGTkhQOuYC1bM&w=640&h=380&q=jpg%20pics%20rama%20name&ved=2ahUKEwid25X447H3AhXVoukKHVVnD5sQMyhLegQIARBw" rel="icon">
+<link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
